@@ -192,7 +192,7 @@ Hotkey list:
 | Right | → |
 
 
-Emoji:
+Emoji: 😎
 
 :exclamation: Use emoji icons to enhance text: 😀⌘
 
